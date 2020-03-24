@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68daabc3-b3f5-4aa8-80fc-c2317c7b0816" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZZvbbaTfCfhxJqR69CdzzNQIAp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68daabc3-b3f5-4aa8-80fc-c2317c7b0816" name="Default Changelist" comment="" />
+      <created>1585059502612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585059502612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1559" y="352" key="#Notifications" timestamp="1585059843057">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state x="1559" y="352" key="#Notifications/0.23.2560.1330@0.23.2560.1330" timestamp="1585059843057" />
+    <state x="1560" y="369" width="882" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585060113935">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state x="1560" y="369" width="882" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.2560.1330@0.23.2560.1330" timestamp="1585060113935" />
+    <state x="828" y="167" key="SettingsEditor" timestamp="1585059704417">
+      <screen x="0" y="23" width="2560" height="1330" />
+    </state>
+    <state x="828" y="167" key="SettingsEditor/0.23.2560.1330@0.23.2560.1330" timestamp="1585059704417" />
+  </component>
+</project>
